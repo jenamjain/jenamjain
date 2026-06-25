@@ -48,8 +48,6 @@
 
 I'm an **AI & Machine Learning student** and **Full Stack Developer** pursuing B.Tech in AIML at **LNCT Group of Colleges, Bhopal** (expected graduation 2028).
 
-I'm currently an **AI/ML Intern at Refftonix Drone Centre of Excellence** (Bhopal, onsite), where I work on full-stack AI-powered systems — building everything from LLM-integrated SaaS platforms to computer-vision-driven input systems. I previously interned remotely with **Future Interns** on Data Science & Analytics.
-
 I enjoy building things end-to-end — frontend, backend, and the AI layer that ties it together — and have participated in multiple hackathons, including the **Smart India Hackathon (SIH)**.
 
 **Open to:** AI/ML Engineer Roles · Full Stack Developer Roles · Internship Opportunities
@@ -99,94 +97,6 @@ I enjoy building things end-to-end — frontend, backend, and the AI layer that 
 | **Generative AI** | Google Cloud Generative AI & Oracle Generative AI certified |
 | **Data Science** | Oracle Data Science, NSDC Data Science certified |
 | **Full Stack AI Systems** | End-to-end SaaS platforms combining LLMs with production web infrastructure |
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>AI-Powered Interview Management SaaS Platform</b></summary>
-
-<br/>
-
-> Full-stack platform that generates interview questions and evaluates candidates using multiple LLM APIs.
-
-| Attribute | Detail |
-|---|---|
-| **Frontend** | React 18 · TypeScript · Vite |
-| **Backend** | Node.js · Express · Prisma · PostgreSQL |
-| **AI Integration** | Groq · Anthropic Claude API · Google Generative AI |
-| **Deployment** | Vercel (frontend) · Render (backend) |
-
-**What it does:** Generates interview questions and evaluates candidate responses using multiple LLM providers, with a full-stack architecture handling auth, data persistence, and real-time interview flows.
-
-</details>
-
-<details>
-<summary><b>Gesture-Controlled Input System</b></summary>
-
-<br/>
-
-> Computer-vision-based system for controlling input using hand gestures.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · OpenCV · MediaPipe |
-
-**What it does:** Tracks hand landmarks in real time to translate gestures into system input, removing the need for traditional input devices in supported workflows.
-
-</details>
-
-<details>
-<summary><b>Gesture-Based PC App Launcher</b></summary>
-
-<br/>
-
-> Hands-free application launcher controlled entirely through gestures.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · OpenCV · MediaPipe |
-
-**What it does:** Uses real-time hand-tracking to recognize specific gestures and map them to launching applications on a PC, built on the same CV pipeline as the gesture input system.
-
-</details>
-
-<details>
-<summary><b>MNAR Clothing — E-Commerce Platform</b></summary>
-
-<br/>
-
-> Independently built e-commerce site with integrated payments.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript · Razorpay |
-| **Live URL** | [mnar.in](https://mnar.in) |
-
-**What it does:** A fully functional storefront with product browsing and checkout, with Razorpay handling payment processing end-to-end.
-
-</details>
-
----
-
-## Experience
-
-### AI/ML Intern — Refftonix Drone Centre of Excellence
-
-`Bhopal, Onsite · 2025 – Present`
-
-Working on AI-powered full-stack systems, including an LLM-integrated interview management SaaS platform and computer-vision-based gesture control tools.
-
-`React` `Node.js` `PostgreSQL` `Prisma` `OpenCV` `MediaPipe` `LLM APIs`
-
-### Data Science & Analytics Intern — Future Interns
-
-`Remote · Sept 2025 – Oct 2025`
-
-Worked on data science and analytics tasks in a remote internship setting.
-
-`Data Science` `Analytics`
 
 ---
 
